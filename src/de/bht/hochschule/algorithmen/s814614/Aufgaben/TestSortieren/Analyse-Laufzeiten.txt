@@ -1,0 +1,22 @@
+Laufzeiten in Bezug auf zufälligen Zahlen und bereits sortierten Reihen.
+
+Mergesort:
+Mergesort zeigt keinen signifikanten Unterschied zwischen bereits sortierten oder zufälligen Arrays.
+
+Quicksort:
+Ist beim Sortieren bereits vorsortierter Arrays langsamer.
+Zeigte sogar einen Stackoverflow beim Sortieren des Arrays Sort100000_1.
+
+Heapsort:
+Ist besonders bei schon vorsortierten Arrays erheblich schneller.
+
+HINWEIS:
+
+Ordner "Sortieren": Implementierung von Heap-, Quick- und Mergesort.
+Ordner "TestSortieren": Tests und Laufzeiten messen.
+
+Die gemessenen Testergebnisse wurden in den Dateien 
+resultsMergesort.txt, resultsQuicksort.txt und resultsHeapsort.txt hinterlegt.
+Diese wurden von den Testklassen, HeapsortTest, MergesortTest und QuicksortTest erstellt.
+Bei Ausführung der Klasse RunTests werden alle Tests durchgeführt 
+und die Ergebnisse auf der Konsole ausgegeben und in die jeweiligen Dateien geschrieben.

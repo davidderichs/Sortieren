@@ -1,0 +1,74 @@
+Test und Laufzeiten fuer Quicksort:
+
+Testergebnis fuer Rand100000_1 :
+Erfolgreich: true
+Zeit: 19758 ms
+
+Testergebnis fuer Rand100000_2 :
+Erfolgreich: true
+Zeit: 11726 ms
+
+Testergebnis fuer Rand10000_1 :
+Erfolgreich: true
+Zeit: 1264 ms
+
+Testergebnis fuer Rand10000_2 :
+Erfolgreich: true
+Zeit: 1257 ms
+
+Testergebnis fuer Rand1000_1 :
+Erfolgreich: true
+Zeit: 98 ms
+
+Testergebnis fuer Rand1000_2 :
+Erfolgreich: true
+Zeit: 96 ms
+
+Testergebnis fuer Rand100_1 :
+Erfolgreich: true
+Zeit: 6 ms
+
+Testergebnis fuer Rand100_2 :
+Erfolgreich: true
+Zeit: 6 ms
+
+Testergebnis fuer Rand10_1 :
+Erfolgreich: true
+Zeit: 0 ms
+
+Testergebnis fuer Rand10_2 :
+Erfolgreich: true
+Zeit: 1 ms
+
+Testergebnis fuer Rand200_1 :
+Erfolgreich: true
+Zeit: 15 ms
+
+Testergebnis fuer Rand200_2 :
+Erfolgreich: true
+Zeit: 14 ms
+
+Testergebnis fuer Rand20_1 :
+Erfolgreich: true
+Zeit: 1 ms
+
+Testergebnis fuer Rand20_2 :
+Erfolgreich: true
+Zeit: 1 ms
+
+Testergebnis fuer Rand500_1 :
+Erfolgreich: true
+Zeit: 34 ms
+
+Testergebnis fuer Rand500_2 :
+Erfolgreich: true
+Zeit: 35 ms
+
+Testergebnis fuer Rand50_1 :
+Erfolgreich: true
+Zeit: 2 ms
+
+Testergebnis fuer Rand50_2 :
+Erfolgreich: true
+Zeit: 2 ms
+

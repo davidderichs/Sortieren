@@ -1,0 +1,110 @@
+Test und Laufzeiten fuer Mergesort:
+
+Testergebnis fuer Rand100000_1 :
+Erfolgreich: true
+Zeit: 4608372 ms
+
+Testergebnis fuer Rand100000_2 :
+Erfolgreich: true
+Zeit: 3819524 ms
+
+Testergebnis fuer Rand10000_1 :
+Erfolgreich: true
+Zeit: 37288 ms
+
+Testergebnis fuer Rand10000_2 :
+Erfolgreich: true
+Zeit: 37311 ms
+
+Testergebnis fuer Rand1000_1 :
+Erfolgreich: true
+Zeit: 582 ms
+
+Testergebnis fuer Rand1000_2 :
+Erfolgreich: true
+Zeit: 535 ms
+
+Testergebnis fuer Rand100_1 :
+Erfolgreich: true
+Zeit: 16 ms
+
+Testergebnis fuer Rand100_2 :
+Erfolgreich: true
+Zeit: 15 ms
+
+Testergebnis fuer Rand10_1 :
+Erfolgreich: true
+Zeit: 1 ms
+
+Testergebnis fuer Rand10_2 :
+Erfolgreich: true
+Zeit: 1 ms
+
+Testergebnis fuer Rand200_1 :
+Erfolgreich: true
+Zeit: 42 ms
+
+Testergebnis fuer Rand200_2 :
+Erfolgreich: true
+Zeit: 41 ms
+
+Testergebnis fuer Rand20_1 :
+Erfolgreich: true
+Zeit: 2 ms
+
+Testergebnis fuer Rand20_2 :
+Erfolgreich: true
+Zeit: 2 ms
+
+Testergebnis fuer Rand500_1 :
+Erfolgreich: true
+Zeit: 191 ms
+
+Testergebnis fuer Rand500_2 :
+Erfolgreich: true
+Zeit: 208 ms
+
+Testergebnis fuer Rand50_1 :
+Erfolgreich: true
+Zeit: 6 ms
+
+Testergebnis fuer Rand50_2 :
+Erfolgreich: true
+Zeit: 6 ms
+
+Testergebnis fuer Sort100000_1 :
+Erfolgreich: true
+Zeit: 3776711 ms
+
+Testergebnis fuer Sort10000_1 :
+Erfolgreich: true
+Zeit: 35917 ms
+
+Testergebnis fuer Sort1000_1 :
+Erfolgreich: true
+Zeit: 473 ms
+
+Testergebnis fuer Sort100_1 :
+Erfolgreich: true
+Zeit: 11 ms
+
+Testergebnis fuer Sort10_1 :
+Erfolgreich: true
+Zeit: 1 ms
+
+Testergebnis fuer Sort200_1 :
+Erfolgreich: true
+Zeit: 34 ms
+
+Testergebnis fuer Sort20_1 :
+Erfolgreich: true
+Zeit: 2 ms
+
+Testergebnis fuer Sort500_1 :
+Erfolgreich: true
+Zeit: 168 ms
+
+Testergebnis fuer Sort50_1 :
+Erfolgreich: true
+Zeit: 4 ms
+
